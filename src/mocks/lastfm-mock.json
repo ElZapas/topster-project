@@ -1,0 +1,24 @@
+{
+    "results": {
+      "albummatches": {
+        "album": [
+          {
+            "artist": "Pink Floyd",
+            "name": "The Dark Side of the Moon",
+            "image": [
+              { "#text": "https://placehold.co/150x150", "size": "small" },
+              { "#text": "https://placehold.co/300x300", "size": "large" }
+            ]
+          },
+          {
+            "artist": "Daft Punk",
+            "name": "Discovery",
+            "image": [
+                { "#text": "https://placehold.co/150x150", "size": "small" },
+                { "#text": "https://placehold.co/300x300", "size": "large" }
+            ]
+          }
+        ]
+      }
+    }
+  }
