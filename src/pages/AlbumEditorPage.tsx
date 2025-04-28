@@ -86,7 +86,7 @@ export const EditorPage = () => {
        */
       }
       <main
-        className="flex-1 p-4 overflow-y-auto"
+        className="flex-1 p-2 overflow-y-auto"
         style={{ backgroundColor: gridConfig.backgroundColor }}
       >
         <EditorGrid

@@ -12,10 +12,10 @@ export default function AboutTab() {
       </p>
       <p className="text-gray-100 mb-4">
       Este generador de topsters es una herramienta diseñada para ayudarte a crear collages visuales de tus álbumes favoritos. 
-      Puedes personalizar tus listas y compartirlas con tus amigos fácilmente.
+      Puedes personalizar tus listas y descargarlas para compartirlas con tus amigos fácilmente.
       </p>
       <p className="text-gray-100">
-      Si tienes alguna sugerencia o encuentras algún problema, no dudes en contactarnos. ¡Gracias por usar nuestra aplicación! :D
+      Si tienes alguna sugerencia o encuentras algún problema, no dudes en contactarnos <a href="mailto:anstrosolanofabian@gmail.com" className="text-teal-500 underline">aquí</a>. ¡Gracias por usar mi aplicación! :D
       </p>
     </div>
   );
